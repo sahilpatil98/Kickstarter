@@ -10,8 +10,9 @@ There are three files:
 2. Data Merger
 - Merges the clean dataset
 
-3. Main Code
+3. Main Code (code_with_ml.py)
 - Creates the key variables and runs the regression discontinuity
+- Provides a LGBM regressor to improve identification and provide weights for regression discontinuity
 - Robustness checks
   1. Bandwidth Robustness
   2. Threshold Robustness
