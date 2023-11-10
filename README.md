@@ -13,4 +13,8 @@ There are three files:
 3. Main Code
 - Creates the key variables and runs the regression discontinuity
 - Robustness checks
+  1. Bandwidth Robustness
+  2. Threshold Robustness
+  3. Donut Hole RD Estimates
+  4. Bandwidth by Gender Estimates
 - Plots for regression discontinuity
